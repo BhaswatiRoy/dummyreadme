@@ -12,4 +12,4 @@ Women are an underrepresented group in the STEM field. We aim at giving the wome
 3. Give exposure to women about the real world scenarios faced by other women and what are the steps they took to overcome the same
 
 There are 3 different sections in the app 
-1. <b><u>Scholarship & Opportunities</b></u> - Provides a list of opportunities which are specifically targetted for women & non binary people as a part of diversity hirinig to encourage more and more women to join the tech world
+1. <b><u>Scholarship & Opportunities</u></b> - Provides a list of opportunities which are specifically targetted for women & non binary people as a part of diversity                                                    hirinig to encourage more and more women to join the tech world
