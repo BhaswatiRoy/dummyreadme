@@ -11,7 +11,7 @@ Women are an underrepresented group in the STEM field. We aim at giving the wome
 2. Pave way for women to become financially independent
 3. Give exposure to women about the real world scenarios faced by other women and what are the steps they took to overcome the same
 
-There are 3 different sections in the app - 
+<h2>There are 3 different sections in the app<h2> - 
 
 1. <b>Scholarship & Opportunities</b> - Provides a list of opportunities which are specifically targetted for women & non binary people as a part of diversity          hiring to encourage more and more women to join the tech world. It also contains link to a list of articles for that particular opportunity so that one can get a detailed view about the opportunity and they don't need to separately search for information regarding the same.
 
@@ -25,10 +25,10 @@ There are 3 different sections in the app -
 ## Structure Of The Project
 
 The home page of the application contains -
-1. Landing Page - Here users can get started with using our application
-2. About Section - Gives a brief info about what are the aims of the application and how it will help women around us.
-3. Services Section - Contains 3 cards to redirects us to 3 different sections - Scholarship & Opportunities, Job Updates & Details, Experiences & Understanding.
-4. Contact Section - Contains the contact information for our website. Job Posters & Women who want to share their experiences can contact us via the contact details.
+  1. <b>Landing Page</b> - Here users can get started with using our application
+  2. <b>About Section</b> - Gives a brief info about what are the aims of the application and how it will help women around us.
+  3. <b>Services Section</b> - Contains 3 cards for 3 different sections - Scholarship & Opportunities, Job Updates & Details, Experiences & Understanding.
+  4. <b>Contact Section</b> - Job Posters & Women who want to share their experiences can contact us via the contact details given in this section.
 
 ## Application Deployment
 
@@ -39,4 +39,9 @@ See the deployed application [here](https://thankful-sky-02affa000.1.azurestatic
 
 - More opportunities and scholarships will be added with each passing day. 
 - Also more articles will be added in the lists 
-- 
+- A direct appliction opion for link to the job application portals(if any) can be included
+- A separate section for "Menstruation" can be added so that women can be made more aware about "Menstrual Hygiene" and can benefit during any problems
+  
+## UI Of The Web Application
+  
+
