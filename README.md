@@ -46,7 +46,7 @@ See the deployed application [here](https://thankful-sky-02affa000.1.azurestatic
 ## UI Of The Web Application
   
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/174021449-510e41d9-9ef9-4458-ad33-7fbaa10c25f3.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174020634-3d372535-32e2-44b2-a0f7-84ecbc6aa94d.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174021662-f95ea23f-f422-45d8-846a-d74f6b677f7e.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174020852-71878c04-7400-4474-a6ef-9626bbbec3f6.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174021092-2eb9227e-7213-4ff3-832b-472cd367eace.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174021717-629859da-cdf4-41da-9e96-5364c60e5a0a.png" width="1000"> <img src="" width="1000"> 
+<img src="https://user-images.githubusercontent.com/78029145/174022096-be14481a-c3a2-4a44-bca2-75312bd269a4.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022264-4ec25678-0db3-4661-a374-d57577a738da.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022307-704cb9c5-8b81-4e04-a603-e8f7b5a1be21.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022480-0d95764f-590e-4cbd-b73f-e9f0a93c7f28.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022523-ec17a9c9-b08c-4578-9504-d1ff57252af1.png" width="1000">
 </pre> 
 
 
