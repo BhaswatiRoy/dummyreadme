@@ -12,7 +12,7 @@ Women are an underrepresented group in the STEM field. We aim at giving the wome
 3. Give exposure to women about the real world scenarios faced by other women and what are the steps they took to overcome the same
 
 <h2>There are 3 different sections in the app</h2> - 
-
+<br>
 1. <b>Scholarship & Opportunities</b> - Provides a list of opportunities which are specifically targetted for women & non binary people as a part of diversity          hiring to encourage more and more women to join the tech world. It also contains link to a list of articles for that particular opportunity so that one can get a detailed view about the opportunity and they don't need to separately search for information regarding the same.
 
 2. <b>Job Updates & Details</b> - Provides a list of recent internship & job openings only for female candidates for various tech & no tech roles so that women can attain financial stability. Job Posters have their job position, company name, hiring member name, stipend, contact details posted so that job seekres can directly contact them for further details.
