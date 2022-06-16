@@ -44,9 +44,33 @@ See the deployed application [here](https://thankful-sky-02affa000.1.azurestatic
 - A separate section for "Menstruation" can be added so that women can be made more aware about "Menstrual Hygiene" and can benefit during any problems
   
 ## UI Of The Web Application
-  
+
+### 1. Home Page
 <pre>
 <img src="https://user-images.githubusercontent.com/78029145/174022096-be14481a-c3a2-4a44-bca2-75312bd269a4.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022264-4ec25678-0db3-4661-a374-d57577a738da.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022307-704cb9c5-8b81-4e04-a603-e8f7b5a1be21.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022480-0d95764f-590e-4cbd-b73f-e9f0a93c7f28.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022523-ec17a9c9-b08c-4578-9504-d1ff57252af1.png" width="1000">
 </pre> 
 
+### 2. Scholarships & Opportunities Page
+<pre>
+<img src="https://user-images.githubusercontent.com/78029145/174022886-4b103f9d-daf4-46f0-94ad-a752f5cda2ca.png" width="1000">
+</pre>
 
+### 3. Job Updates & Details For Women Page
+<pre>
+<img src="https://user-images.githubusercontent.com/78029145/174023138-f8307acd-b81f-4a8d-9989-ea732ad306af.png" width="1000">
+</pre>
+
+### 4. Experiences & Understandings Page
+<pre>
+<img src="https://user-images.githubusercontent.com/78029145/174023383-8a841725-36ce-48ae-b96b-b2eb20fa2b90.png" width="1000">
+</pre>
+
+## Run Locally
+
+Open Anaconda Prompt -
+
+1.1 `git clone <repo link>`
+
+1.2 `cd SistersWhoCode`
+
+1.3 `npm start index.html`
