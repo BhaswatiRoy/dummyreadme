@@ -42,6 +42,7 @@ See the deployed application [here](https://thankful-sky-02affa000.1.azurestatic
 - Also more articles will be added in the lists 
 - A direct appliction opion for link to the job application portals(if any) can be included
 - A separate section for "Menstruation" can be added so that women can be made more aware about "Menstrual Hygiene" and can benefit during any problems
+- Make use of Azure services like "Health Bot" to implement a chatbot section which will guide women regarding health conditions like - Menstruation, Pregnancy etc
   
 ## UI Of The Web Application
 
