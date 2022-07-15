@@ -1,8 +1,8 @@
 <h1 align="center">
-             Sisters Who Code 👩🏻‍🦰👩🏻👩🏼‍🦱🧑🏽
+             ManageIt 👩🗒️👨
 </h1>
 
-![image](https://user-images.githubusercontent.com/78029145/174003585-ef179aa2-d063-4cfc-86ff-0958ace8e1b4.png)
+![image](https://user-images.githubusercontent.com/78029145/179185585-a7b5f7a5-870a-4bb7-9589-8e7df39dcb75.png)
 
 ## Overview of the App
 
