@@ -14,7 +14,7 @@ This application can be used by any user to store the personal employee details 
 </tr>
 </table>
 
-<h3>There are 2 different sections in the app as follows</h3> 
+There are 2 different sections in the app as follows -
 
 1. <b>Employee Details Section</b> - This section contains a table to display the details of the employees stored. It also has a button which opens a form to add new employees. There is also an edit & delete option along with details of each employee to update the details of employees or delete them when required.
 
