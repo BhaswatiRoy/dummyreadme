@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td>
-This application can be used by any user to store the personal employee details of the employees in the workplace including - name, email, department and all update/delete the details later as per requirements. The user can also store official notes related to workplace and can also delete the notes later once they are done with them. 
+This application can be used by any user to store the personal employee details of the employees in the workplace including - name, email, department and all update/delete the details later as per requirements. The user can also store official notes related to workplace and can also delete the notes later once they are done with them. The data from both the sections get stored in 2 tables under 1 single database
 </td>
 </tr>
 </table>
@@ -22,7 +22,8 @@ This application can be used by any user to store the personal employee details 
 
 ## Tech Stack Used -
 
-<img src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%2314354C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/microsoft azure%20-%2314354C.svg?&style=for-the-badge&logo=microsoft azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%2314354C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/mysql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
+
 
 ## Structure Of The Project
 
