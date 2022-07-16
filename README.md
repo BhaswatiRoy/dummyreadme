@@ -6,12 +6,15 @@
 
 ## Overview of the App
 
-Women are an underrepresented group in the STEM field. We aim at giving the women around us a clear exposure to technology by serving various means like -
-1. Updating them about various diversity hiring opportunities
-2. Pave way for women to become financially independent
-3. Give exposure to women about the real world scenarios faced by other women and what are the steps they took to overcome the same
+<table>
+<tr>
+<td>
+This application can be used by any user to store the personal employee details of the employees in the workplace including - name, email, department and all update/delete the details later as per requirements. The user can also store official notes related to workplace and can also delete the notes later once they are done with them. 
+</td>
+</tr>
+</table>
 
-<h2>There are 3 different sections in the app as follows</h2> 
+<h2>There are 2 different sections in the app as follows</h2> 
 
 1. <b>Scholarship & Opportunities</b> - Provides a list of opportunities which are specifically targetted for women & non binary people as a part of diversity          hiring to encourage more and more women to join the tech world. It also contains link to a list of articles for that particular opportunity so that one can get a detailed view about the opportunity and they don't need to separately search for information regarding the same.
 
