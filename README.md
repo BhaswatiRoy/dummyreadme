@@ -32,14 +32,8 @@ There are 2 different sections in the app as follows -
 
 The home page of the application contains -
   1. <b>Landing Page</b> - Here users can get started with using our application
-  2. <b>About Section</b> - Gives a brief info about what are the aims of the application and how it will help women around us.
-  3. <b>Services Section</b> - Contains 3 cards for 3 different sections - Scholarship & Opportunities, Job Updates & Details, Experiences & Understanding.
-  4. <b>Contact Section</b> - Job Posters & Women who want to share their experiences can contact us via the contact details given in this section.
-
-## Application Deployment
-
-The entire static web application is deployed using Microsoft Azure services. The code was present in VS Code and then "Azure Static Web Apps" extension was downloaded to deploy the application. The resources for the application was pushed to a new github repository and then deployed to Azure. 
-See the deployed application [here](https://thankful-sky-02affa000.1.azurestaticapps.net/)
+  2. <b>Link to Employee Section</b> - Add, Update, Delete employee details for any workplace
+  3. <b>Link to Notes Section</b> - Add, Update, Delete notes for any workplace
 
 ## Future Prospects
 
