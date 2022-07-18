@@ -52,7 +52,7 @@ The home page of the application contains -
 
 ### 2. Employee Details Page
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/179470942-b350838a-519f-49b6-bc91-53d3de1ce7d6.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471056-b111aadf-a6c3-43f0-863f-fedf1be9fbf1.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471056-b111aadf-a6c3-43f0-863f-fedf1be9fbf1.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471245-40e4660d-a3c8-4689-b4d4-97b3a530f133.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471314-61853de8-5cf6-4a65-9f55-c4418269d3fa.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471553-6b8937a3-5b23-4a2b-a14c-c21396bc2f8e.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471631-79c86e9a-34a7-4452-9398-a906d0c97121.png" width="1000">
+<img src="https://user-images.githubusercontent.com/78029145/179470942-b350838a-519f-49b6-bc91-53d3de1ce7d6.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471056-b111aadf-a6c3-43f0-863f-fedf1be9fbf1.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471245-40e4660d-a3c8-4689-b4d4-97b3a530f133.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471314-61853de8-5cf6-4a65-9f55-c4418269d3fa.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471553-6b8937a3-5b23-4a2b-a14c-c21396bc2f8e.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471631-79c86e9a-34a7-4452-9398-a906d0c97121.png" width="1000">
 </pre>
 
 ### 3. Notes Page
