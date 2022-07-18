@@ -50,14 +50,12 @@ The home page of the application contains -
 <img src="https://user-images.githubusercontent.com/78029145/179470475-9ee9759e-5e48-41a6-a9dd-26a7e16f3a8c.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179470566-f2b6059f-356e-42db-8a3b-ad3c236d57bf.png" width="1000"> 
 </pre>
 
-
-
-### 2. Scholarships & Opportunities Page
+### 2. Employee Details Page
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/174022886-4b103f9d-daf4-46f0-94ad-a752f5cda2ca.png" width="1000">
+<img src="https://user-images.githubusercontent.com/78029145/179470942-b350838a-519f-49b6-bc91-53d3de1ce7d6.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471056-b111aadf-a6c3-43f0-863f-fedf1be9fbf1.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471056-b111aadf-a6c3-43f0-863f-fedf1be9fbf1.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471245-40e4660d-a3c8-4689-b4d4-97b3a530f133.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471314-61853de8-5cf6-4a65-9f55-c4418269d3fa.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471553-6b8937a3-5b23-4a2b-a14c-c21396bc2f8e.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179471631-79c86e9a-34a7-4452-9398-a906d0c97121.png" width="1000">
 </pre>
 
-### 3. Job Updates & Details For Women Page
+### 3. Notes Page
 <pre>
 <img src="https://user-images.githubusercontent.com/78029145/174023138-f8307acd-b81f-4a8d-9989-ea732ad306af.png" width="1000">
 </pre>
@@ -66,6 +64,9 @@ The home page of the application contains -
 <pre>
 <img src="https://user-images.githubusercontent.com/78029145/174023383-8a841725-36ce-48ae-b96b-b2eb20fa2b90.png" width="1000">
 </pre>
+
+
+
 
 ## Run Locally
 
