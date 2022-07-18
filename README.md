@@ -47,8 +47,10 @@ The home page of the application contains -
 
 ### 1. Home Page
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/174022096-be14481a-c3a2-4a44-bca2-75312bd269a4.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022264-4ec25678-0db3-4661-a374-d57577a738da.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022307-704cb9c5-8b81-4e04-a603-e8f7b5a1be21.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022480-0d95764f-590e-4cbd-b73f-e9f0a93c7f28.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/174022523-ec17a9c9-b08c-4578-9504-d1ff57252af1.png" width="1000">
-</pre> 
+<img src="https://user-images.githubusercontent.com/78029145/179470475-9ee9759e-5e48-41a6-a9dd-26a7e16f3a8c.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179470566-f2b6059f-356e-42db-8a3b-ad3c236d57bf.png" width="1000"> 
+</pre>
+
+
 
 ### 2. Scholarships & Opportunities Page
 <pre>
