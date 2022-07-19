@@ -37,11 +37,8 @@ The home page of the application contains -
 
 ## Future Prospects
 
-- More opportunities and scholarships will be added with each passing day. 
-- Also more articles will be added in the lists 
-- A direct appliction opion for link to the job application portals(if any) can be included
-- A separate section for "Menstruation" can be added so that women can be made more aware about "Menstrual Hygiene" and can benefit during any problems
-- Make use of Azure services like "Health Bot" to implement a chatbot section which will guide women regarding health conditions like - Menstruation, Pregnancy etc
+- Add a Login-Logout system in the application 
+- 
   
 ## UI Of The Web Application
 
@@ -63,10 +60,8 @@ The home page of the application contains -
 
 ## Run Locally
 
-Open Anaconda Prompt -
-
 1.1 `git clone <repo link>`
 
-1.2 `cd SistersWhoCode`
+1.2 `cd ManageIt`
 
-1.3 `npm start index.html`
+1.3 `flask run`
