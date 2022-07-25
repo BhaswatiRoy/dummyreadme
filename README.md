@@ -38,7 +38,7 @@ The home page of the application contains -
 ## Future Prospects
 
 - Add a Login-Logout system in the application 
-- 
+- Add a Meeting Section to update about the upcoming or incomplete meetings in the workplace
   
 ## UI Of The Web Application
 
