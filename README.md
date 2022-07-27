@@ -2,7 +2,7 @@
              🟡FlipAnalyse🔵
 </h1>
 
-![image](https://user-images.githubusercontent.com/78029145/181165201-5b5f67d3-bc9e-442a-822c-1ed048811ab5.png)
+![image](https://user-images.githubusercontent.com/78029145/181165484-95d75092-2fbd-4b54-b3cd-5c147acb3bbe.png)
 
 
 ## Overview of the App
