@@ -2,7 +2,7 @@
              🟡FlipAnalyse🔵
 </h1>
 
-![image](https://user-images.githubusercontent.com/78029145/181165484-95d75092-2fbd-4b54-b3cd-5c147acb3bbe.png)
+![image](https://user-images.githubusercontent.com/78029145/181165548-0bdca110-6bfd-48b4-bfed-66cf2c3b8361.png)
 
 
 ## Overview of the App
@@ -10,16 +10,19 @@
 <table>
 <tr>
 <td>
-This application can be used by any user to store the personal employee details of the employees in the workplace including - name, email, department and all update/delete the details later as per requirements. The user can also store official notes related to workplace and can also delete the notes later once they are done with them. The data from both the sections get stored in 2 tables under 1 single database
+This application can be used by Flipkart to get a detailed overall sentiment analysis of customer reviews for Flipkart products scrapped from multiple social media platforms like - Twitter, LinkedIn, Reddit. It also contains a section which displays the top 90 Electronics Products extracted from various social media platforms along with the details of the products taken from Flipkart. Additionally the application also gives meaningful insights from the analysis shown of the products sold and customer feedbacks during Flipkart Big Billion Days.
 </td>
 </tr>
 </table>
 
-There are 2 different sections in the app as follows -
+There are 3 main sections in the app as follows -
 
-1. <b>Employee Details Section</b> - This section contains a table to display the details of the employees stored. It also has a button which opens a form to add new employees. There is also an edit & delete option along with details of each employee to update the details of employees or delete them when required.
+1. <b>Social Media</b> - This section contains a total of 6 plots to display the analysis of sentiment counts and percentages via Histograms and Pie Charts for tweets, posts, contents extacted from social media platforms like Twitter, Reddit, LinkedIn using web scrapping tools like ParseHub, Apify. The data scrapped from different social media platforms are passed through a Recurrent Neural Network Sentiment Anlaysis Model with 99.2% accuracy to predict the results.
 
-2. <b>Notes Section</b> - This section contains a table to display the list of unfinished notes. It also has a form to add new notes and a delete option beside each notes to delete the notes if the task is finished.
+2. <b>Top Products</b> - This section contains top 90 trendy electronics products on social media platforms like Facebook, Instagram using web scrapping tools like ParseHub, Apify and the details of the respective products taken from official site of Flipkart. The data scrapped from multiple social media platforms is used to match with products on flipkart and then details of those products are extracted.
+
+3. <b>Big Billion Days Sale</b> - This section contains a total of 6 plots to showcase the insights of sale of products and products categories sold along with customer feedbacks and reviews for the same. The dataset is collected for Big Billion Days 2021 and analysis is drawn.
+
 
 ## Tech Stack Used -
 
