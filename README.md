@@ -1,8 +1,9 @@
 <h1 align="center">
-             ManageIt 👩🗒️👨
+             🟡FlipAnalyse🔵
 </h1>
 
-![image](https://user-images.githubusercontent.com/78029145/179185741-5f1030a2-7667-4f5e-b70a-1064bd0a290d.png)
+![image](https://user-images.githubusercontent.com/78029145/181165201-5b5f67d3-bc9e-442a-822c-1ed048811ab5.png)
+
 
 ## Overview of the App
 
