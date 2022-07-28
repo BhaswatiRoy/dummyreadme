@@ -44,12 +44,14 @@ The home page of the application contains -
 
 - Add a Login-Logout system in the application 
 - Add a Meeting Section to update about the upcoming or incomplete meetings in the workplace
-  
+
+
+
 ## UI Of The Web Application
 
 ### 1. Home Page
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/179470475-9ee9759e-5e48-41a6-a9dd-26a7e16f3a8c.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179470566-f2b6059f-356e-42db-8a3b-ad3c236d57bf.png" width="1000"> 
+<img src="https://user-images.githubusercontent.com/78029145/181441355-4324ecab-e617-4439-a0f9-8a7ff01324f4.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181441418-023a5926-a8e4-4534-9770-fd55ee3ce5c2.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181441511-e645e907-d71e-4602-9c17-27cba1420fdf.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181441970-832c9ace-9dbb-4308-bed6-d062247f4147.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442072-e3e87b33-f36d-413c-9649-27a4387e2744.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442147-caf6dfdd-f696-4ab3-a298-8d32313476a6.png" width="1000"> 
 </pre>
 
 ### 2. Employee Details Page
