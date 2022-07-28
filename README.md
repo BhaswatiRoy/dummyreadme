@@ -46,8 +46,6 @@ The home page of the application contains -
 - Add a Meeting Section to update about the upcoming or incomplete meetings in the workplace
  
 ![image]()
-![image]()
-![image]()
 
 ## UI Of The Web Application
 
@@ -58,7 +56,7 @@ The home page of the application contains -
 
 ### 2. Social Media Section
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/181442605-3aa75389-bc37-47e3-9a61-fafc3a883033.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442623-377b9dc9-adc3-4091-a21a-9770278d3745.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181444281-95e729b4-c100-4ad2-94e4-8ff930e7f482.png" width="1000">
+<img src="https://user-images.githubusercontent.com/78029145/181442605-3aa75389-bc37-47e3-9a61-fafc3a883033.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442623-377b9dc9-adc3-4091-a21a-9770278d3745.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181444492-36fa33ac-2ae3-43ad-a724-5b5776374212.png" width="1000">
 </pre>
 
 ### 3. Top Products
