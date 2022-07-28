@@ -36,8 +36,9 @@ There are 3 main sections in the app as follows -
 
 The home page of the application contains -
   1. <b>Landing Page</b> - Here users can get started with using our application
-  2. <b>Link to Employee Section</b> - Add, Update, Delete employee details for any workplace
-  3. <b>Link to Notes Section</b> - Add, Update, Delete notes for any workplace
+  2. <b>Navigation Card containing link to Social Media section</b> - Analysis and plots related to sentiments of customer review posts on social medias.
+  3. <b>Navigation Card containing link to Top Products section</b> - Top 90 trendy electronics products on social media along with their details.
+  4. <b>Navigation Card containing link to Big Billion Days section</b> - Analysis and plots related to products sold and customer feedbacks of the same during Big Billion Days
 
 ## Future Prospects
 
