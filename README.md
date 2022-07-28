@@ -64,7 +64,7 @@ The home page of the application contains -
 
 ### 4. Big Billion Days Section
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/181445122-c06045a3-0a09-409e-ae3e-a998f62c3bbe.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181445303-d10f959b-3875-443b-963d-ca335d7f8812.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181444896-495bea4b-5808-4a1a-8542-cf86ea449420.png" width="1000">
+<img src="https://user-images.githubusercontent.com/78029145/181445122-c06045a3-0a09-409e-ae3e-a998f62c3bbe.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181445500-59bd19e6-6b65-4c39-8bd7-46d4a8f6d510.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181444896-495bea4b-5808-4a1a-8542-cf86ea449420.png" width="1000">
 </pre>
 
 ## Run Locally
