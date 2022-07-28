@@ -58,7 +58,7 @@ The home page of the application contains -
 
 ### 2. Social Media Section
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/181442605-3aa75389-bc37-47e3-9a61-fafc3a883033.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442623-377b9dc9-adc3-4091-a21a-9770278d3745.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442667-b9eca036-40ca-48b5-8be5-908be2892a92.png" width="1000">
+<img src="https://user-images.githubusercontent.com/78029145/181442605-3aa75389-bc37-47e3-9a61-fafc3a883033.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442623-377b9dc9-adc3-4091-a21a-9770278d3745.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181444281-95e729b4-c100-4ad2-94e4-8ff930e7f482.png" width="1000">
 </pre>
 
 ### 3. Top Products
@@ -68,7 +68,7 @@ The home page of the application contains -
 
 ### 4. Big Billion Days Section
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/181443175-447222b4-88a2-460e-8dc5-6de1a4446e34.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181443696-a4a369b8-1fdf-4c96-98ae-1b839c9615b4.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181443713-9e929ad6-690f-4216-8ccc-e226f028c335.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181443745-ed1fb5c5-4fb4-4090-8cea-ae5a1f6ae6fd.png" width="1000">
+<img src="https://user-images.githubusercontent.com/78029145/181443696-a4a369b8-1fdf-4c96-98ae-1b839c9615b4.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181443713-9e929ad6-690f-4216-8ccc-e226f028c335.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181443745-ed1fb5c5-4fb4-4090-8cea-ae5a1f6ae6fd.png" width="1000">
 </pre>
 
 ## Run Locally
