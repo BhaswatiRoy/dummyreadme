@@ -44,8 +44,10 @@ The home page of the application contains -
 
 - Add a Login-Logout system in the application 
 - Add a Meeting Section to update about the upcoming or incomplete meetings in the workplace
-
-
+ 
+![image]()
+![image]()
+![image]()
 
 ## UI Of The Web Application
 
@@ -59,11 +61,15 @@ The home page of the application contains -
 <img src="https://user-images.githubusercontent.com/78029145/181442605-3aa75389-bc37-47e3-9a61-fafc3a883033.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442623-377b9dc9-adc3-4091-a21a-9770278d3745.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442667-b9eca036-40ca-48b5-8be5-908be2892a92.png" width="1000">
 </pre>
 
-### 3. Notes Page
+### 3. Top Products
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/179474203-ce6339ae-6b63-4424-a973-2761a3b869fa.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179474259-bad9799b-dcc7-42d7-8b75-7c5731c47d7d.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179474361-475fe685-c693-4eb1-8a1c-284be84f37b8.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/179474409-6ae9f999-1f75-4775-83ba-a0fdb26a5708.png" width="1000">
+<img src="https://user-images.githubusercontent.com/78029145/181443175-447222b4-88a2-460e-8dc5-6de1a4446e34.png" width="1000"> 
 </pre>
 
+### 4. Big Billion Days Section
+<pre>
+<img src="https://user-images.githubusercontent.com/78029145/181443175-447222b4-88a2-460e-8dc5-6de1a4446e34.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181443696-a4a369b8-1fdf-4c96-98ae-1b839c9615b4.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181443713-9e929ad6-690f-4216-8ccc-e226f028c335.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181443745-ed1fb5c5-4fb4-4090-8cea-ae5a1f6ae6fd.png" width="1000">
+</pre>
 
 ## Run Locally
 
