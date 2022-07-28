@@ -44,8 +44,6 @@ The home page of the application contains -
 
 - Add a Login-Logout system in the application 
 - Add a Meeting Section to update about the upcoming or incomplete meetings in the workplace
- 
-![image]()
 
 ## UI Of The Web Application
 
@@ -66,7 +64,7 @@ The home page of the application contains -
 
 ### 4. Big Billion Days Section
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/181443696-a4a369b8-1fdf-4c96-98ae-1b839c9615b4.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181443713-9e929ad6-690f-4216-8ccc-e226f028c335.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181444896-495bea4b-5808-4a1a-8542-cf86ea449420.png" width="1000">
+<img src="https://user-images.githubusercontent.com/78029145/181445122-c06045a3-0a09-409e-ae3e-a998f62c3bbe.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181443713-9e929ad6-690f-4216-8ccc-e226f028c335.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181444896-495bea4b-5808-4a1a-8542-cf86ea449420.png" width="1000">
 </pre>
 
 ## Run Locally
