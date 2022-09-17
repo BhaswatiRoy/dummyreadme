@@ -32,6 +32,8 @@ There are 3 main sections in the app as follows -
 
 <img src="https://img.shields.io/badge/numpy%20-%2314354C.svg?&style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%2314354C.svg?&style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/plotly%20-%2314354C.svg?&style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/pickle%20-%2314354C.svg?&style=for-the-badge&logo=pickle&logoColor=white"/> <img src="https://img.shields.io/badge/nltk%20-%2314354C.svg?&style=for-the-badge&logo=nltk&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow%20-%2314354C.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%2314354C.svg?&style=for-the-badge&logo=flask&logoColor=white"/> 
 
+<img src="https://img.shields.io/badge/js3%20-%2314354C.svg?&style=for-the-badge&logo=js3&logoColor=white"/>
+
 ## Structure Of The Project
 
 The home page of the application contains -
