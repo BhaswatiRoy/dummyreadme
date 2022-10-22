@@ -76,3 +76,11 @@ The home page of the application contains -
 1.2 `cd ManageIt`
 
 1.3 `flask run`
+
+## Link To GitHub Readme
+
+See the code [here](https://github.com/BhaswatiRoy/FlipAnalyse)
+
+## Link To Deployed App
+
+See the deployed app [here](https://mighty-dusk-36159.herokuapp.com/)
