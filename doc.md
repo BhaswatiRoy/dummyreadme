@@ -5,4 +5,6 @@ Your support would be greatly appreciated for AsyncAPI, where we aim to improve 
 In order to support AsyncAPI, the following options are available -
 
 - **Open Collective**: Visit our [Open Collective Page](https://opencollective.com/asyncapi)
-- **GitHub Sponsors**: 
+- **GitHub Sponsors**: Visit our [GitHub Sponsors Page](https://github.com/sponsors/asyncapi)
+- **Linux Foundation Crowdfunding**: Visit our [Linux Foundation Crowdfunding Page](https://crowdfunding.lfx.linuxfoundation.org/projects/445898e9-42a2-4965-9e0a-c2a714f381bc)
+
