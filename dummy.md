@@ -13,6 +13,6 @@ _NOTE: PRs will be auto-closed until the beginning of the 2023 Season of Docs pr
 > Chigozie Oduah | [My Articles](https://linktr.ee/ghoulkingr) | API documentation, articles, user guides, Rust, Python, JavaScript
 > Atharva Salitri | [myportfolio.me](https://t.co/uqG9Ovr5uZ) | Documentation, Web Development, Technical Writing and Blogging
 > Nawed Ali | [portfolio](https://nawedali.tech)  |  Software/API documentation, Code Documentation, TypeScript
-> Bhaswati Roy | <ul><li>[Portfolio](https://bhaswatiroy.github.io/Bhaswati-Roy-Portfolio/)</li> <ul><li>[LinkedIn](https://www.linkedin.com/in/bhaswatiroy31/) </li> <li> [Github](https://github.com/BhaswatiRoy) </li> <li> [Medium](https://medium.com/@BhaswatiRoy) </li></ul> | Hello World! I'm Bhaswati Roy, a passionate software developer with a keen interest in Technical Writing & Documentation.</br> 
+> Bhaswati Roy | <ul> <li>[Portfolio](https://bhaswatiroy.github.io/Bhaswati-Roy-Portfolio/)</li> <li>[LinkedIn](https://www.linkedin.com/in/bhaswatiroy31/) </li> <li> [Github](https://github.com/BhaswatiRoy) </li> <li> [Medium](https://medium.com/@BhaswatiRoy) </li></ul> | Hello World! I'm Bhaswati Roy, a passionate software developer with a keen interest in Technical Writing & Documentation.</br> 
 **Skills:** <ul><li>C++</li></ul>
 **Open Source Documentation Contributor:** <ul><li>Moja Global</li></ul>
