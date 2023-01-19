@@ -13,4 +13,4 @@ In order to support AsyncAPI, the following options are available -
 
 
 
-> Bhaswati Roy | [My Portfolio](https://bhaswatiroy.github.io/Bhaswati-Roy-Portfolio/) | C++, Python, HTML, CSS, Javscript, Software Documentation, Technical Writing and Blogging
+> Bhaswati Roy | [My Portfolio](https://bhaswatiroy.github.io/Bhaswati-Roy-Portfolio/) | C++, Python, HTML, CSS, Javscript, Software Documentation, Technical Writing and Blogging <ul> Open Source Documentation Contributor <li> Moja Global </li> <li> OpenMinded </li> <li> OpenRefine </li> <li> MDAnalysis </li> <li> NumPy </li> <li> LFortran </li> <li> PyMC </li> <li> Express LRS </li> <li> Iterative DVC </li> </ul>
