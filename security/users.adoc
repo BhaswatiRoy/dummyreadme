@@ -13,11 +13,15 @@ endif::[]
 
 = Manage Users
 
+== Setting up User Accounts -
+
 As soon as we set up Jenkins in our local computers and go to the required TCP port 
 we set during installation, we get to see the following page where we can enter our
 details as a first time user
 
 image::create-first-admin-user.png["Create First Admin User", role=center]
+
+== Manage Jenkins -
 
 Now once the creation of user account is done after filling all the details correctly
 we are all set to use Jenkins 
@@ -28,6 +32,8 @@ over to *Security* section where we can find *Manage Users* option. This option 
 utilized to *Create/Delete/Modify* details of users who signed into Jenkins.
 
 image::security-section-options.png["Security Section Options", role=center]
+
+== Configure User Details -
 
 After clicking on that option, we can see a list of users and we need to click on the 
 user id whose details need to be altered. Now on the left side again we see a "Configure"
