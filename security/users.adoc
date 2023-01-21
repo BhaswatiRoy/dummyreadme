@@ -17,7 +17,7 @@ As soon as we set up Jenkins in our local computers and go to the required TCP p
 we set during installation, we get to see the following page where we can enter our
 details as a first time user
 
-image::security/create-first-admin-user.png["Create First Admin User", role=center]
+image::create-first-admin-user.png["Create First Admin User", role=center]
 
 Now once the creation of user account is done after filling all the details correctly
 we are all set to use Jenkins 
