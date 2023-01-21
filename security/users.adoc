@@ -21,14 +21,8 @@ image::create-first-admin-user.png["Create First Admin User", role=center]
 
 Now once the creation of user account is done after filling all the details correctly
 we are all set to use Jenkins 
-
-image::jenkins-ready.png["Jenkins is Ready!", role=center]
-
 Now after signing into Jenkins, on the left side of the screen we can see a panel of
 options including the ones shown below
-
-image::left-panel-options.png["Left Panel Options", role=center]
-
 From here we can see multiple options under different sections. From there we will head
 over to *Security* section where we can find *Manage Users* option. This option can be
 utilized to *Create/Delete/Modify* details of users who signed into Jenkins.
