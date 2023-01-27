@@ -1,3 +1,5 @@
+```text
+
 Moja Global / FLINT Handbook  
   ├── Chapter 1                   # contents of chapter 1
   │    ├── Index                  # Index contents
@@ -6,6 +8,7 @@ Moja Global / FLINT Handbook
   ├── Chapter 2                   # contents of chapter 2
   ├── Chapter 3                   # contents of chapter 3
   ├── Chapter 4                   # contents of chapter 4
+```
   
   
   ├── css                         # Various CSS files
