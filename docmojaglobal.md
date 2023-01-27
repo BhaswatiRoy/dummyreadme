@@ -10,7 +10,7 @@ Moja Global / FLINT Handbook
   ├── Chapter 4                   # contents of chapter 4
 ```
   
-  
+```text  
   ├── css                         # Various CSS files
   ├── lib                         # Various JS code for preparing static data to render in pages
   ├── pages                       # Website's pages source. It includes raw markdown files and React page templates.
@@ -24,3 +24,4 @@ Moja Global / FLINT Handbook
   │    ├── edge-functions         # Netlify Edge-Functions code
   ├── postcss.config.js           # PostCSS configuration file
   └── tailwind.config.js          # TailwindCSS configuration file
+```
