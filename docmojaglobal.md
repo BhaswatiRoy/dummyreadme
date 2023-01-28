@@ -11,12 +11,13 @@ Moja Global / FLINT Handbook
 ```
   
 ```text  
-  ├── css                         # Various CSS files
-  ├── lib                         # Various JS code for preparing static data to render in pages
-  ├── pages                       # Website's pages source. It includes raw markdown files and React page templates.
-  │    ├── about                  # Raw blog for /about page
-  │    ├── blog                   # Blog posts
-  │    └── docs                   # Blog for /docs/* pages
+  ├── .devcontainer               # contents of .devcontainer
+  ├── .github                     # contents of .github
+  ├── .website                    # contents of .website
+  │    ├── blog                   # contents of blog
+  │    ├── case-studies           # contents of case studies
+  │    └── community              # cotents of community
+  │    └── docs                   # contents for documentation
   ├── public                      # Data for site metadata and static blog such as images
   ├── scripts                     # Scripts used in the build and dev processes
   ├── next.config.js              # Next.js configuration file
