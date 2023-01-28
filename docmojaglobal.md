@@ -6,6 +6,10 @@ Moja Global / FLINT Handbook
        ├── section_one.rst             # Section 1 contents
        └── section_two.rst              # Section 2 contents
   ├── Chapter 2                   # contents of chapter 2
+       ├── index.rst                  # Index contents
+       ├── section_one.rst             # Section 1 contents
+       ├── section_two.rst              # Section 
+       └── section_three.rst              # Section
   ├── Chapter 3                   # contents of chapter 3
   ├── Chapter 4                   # contents of chapter 4
   ├── Chapter 5                   # contents of chapter 5
