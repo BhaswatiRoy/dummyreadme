@@ -2,9 +2,9 @@
 
 Moja Global / FLINT Handbook  
   ├── Chapter 1                   # contents of chapter 1
-       ├── Index                  # Index contents
-       ├── Section 1              # Section 1 contents
-       └── Section 2              # Section 2 contents
+       ├── index.rst                  # Index contents
+       ├── section_one.rst             # Section 1 contents
+       └── section_two.rst              # Section 2 contents
   ├── Chapter 2                   # contents of chapter 2
   ├── Chapter 3                   # contents of chapter 3
   ├── Chapter 4                   # contents of chapter 4
