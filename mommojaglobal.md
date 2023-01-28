@@ -14,6 +14,8 @@
 
 [@abhilipsasahoo03](https://github.com/abhilipsasahoo03)
 
+[@jigarvyasidea](http://github.com/jigarvyasidea)
+
 ## Agenda
 
 Disscusion on ideas and issues worked on by the community members.
