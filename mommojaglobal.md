@@ -20,12 +20,12 @@ Disscusion on ideas and issues worked on by the community members.
 
 ## Discussion
 
-- Meenal talked about the 2 PRs she submitted this week by improving the links in README of FLINT handbook and also creating detailed MOM of a community meeting.
-- Sahil talked about the errors he was facing during local installation of [GCBM.Belize](https://github.com/moja-global/GCBM.Belize) via windows method. Namya and Karan recommended to install via the Docker method which is the most preferred method.
+- Meenal talked about the 2 PRs she submitted this week by improving the links in the README of the FLINT handbook and also creating a detailed MOM of a community meeting.
+- Sahil talked about the errors he was facing during the local installation of [GCBM.Belize](https://github.com/moja-global/GCBM.Belize) via windows method. Namya and Karan recommended installing via the Docker method which is the most preferred method.
 - Abhilipsa updated us about the new blog she wrote on Grace Hopper Celebration Open Source Day for the community website. Being a mentor representing Moja Global, she precisely presented her experience.
 - Aman joined his first community meeting and informed that he was new to Moja Global. Namya gave him an overview of Moja global and it's projects. She also recommended him to check [Moja Global Documentation](https://docs.moja.global/) and [FLINT Handbook](https://moja-global.github.io/Handbook/)
 - Bhaswati notified us about her new idea of introducing a project structure to the README of FLINT handbook and community website
-- 
+
 
 ## Check in on previous action items
 Every above-mentioned attendee gave their progress on the issue they are working on.
