@@ -12,15 +12,15 @@ Moja Global / FLINT Handbook
   ├── Chapter 6                   # contents of chapter 6
   ├── static                      # folder with static files 
        ├── custom.css             # CSS styles of Handbook
-  ├── gitignore                   # contents of chapter 4
-  ├── Appendices                  # contents of chapter 3
-  ├── Conclusion                  # contents of chapter 4
+  ├── .gitignore                   # contents of chapter 4
+  ├── Appendices.rst                  # contents of chapter 3
+  ├── Conclusion.rst                  # contents of chapter 4
   ├── Makefile                    # defines minimum set of tasks needed to be executed
-  ├── README                      # contents of chapter 4
-  ├── conf                        # contents of chapter 3
-  ├── index                       # home page of the Handbook
-  ├── make                        # contents of chapter 3
-  ├── requirements                # contains all required packages to run the project
+  ├── README.md                      # contents of chapter 4
+  ├── conf.py                        # contents of chapter 3
+  ├── index.rst                       # home page of the Handbook
+  ├── make.bat                        # contents of chapter 3
+  ├── requirements.md                # contains all required packages to run the project
   
 ```
   
