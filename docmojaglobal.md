@@ -11,7 +11,13 @@ Moja Global / FLINT Handbook
        ├── section_two.rst              # Section 
        └── section_three.rst              # Section
   ├── Chapter 3                   # contents of chapter 3
+       ├── index.rst                  # Index contents
+       ├── section_one.rst             # Section 1 contents
+       ├── section_two.rst              # Section 
+       └── section_three.rst              # Section
   ├── Chapter 4                   # contents of chapter 4
+       ├── index.rst              # Index contents
+       └── section_one.rst      # Section
   ├── Chapter 5                   # contents of chapter 5
   ├── Chapter 6                   # contents of chapter 6
   ├── static                      # folder with static files 
