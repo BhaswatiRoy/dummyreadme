@@ -1,5 +1,4 @@
 ```text
-
 Moja Global / FLINT Handbook  
   ├── Chapter 1                     # Understanding Climate Science and Carbon Models
        ├── index.rst                # Landing page of Chapter 1
@@ -44,8 +43,7 @@ Moja Global / FLINT Handbook
   ├── conf.py                       # Contains all configurations needed to customize Sphinx input output
   ├── index.rst                     # Home page of the Handbook
   ├── make.bat                      # Batch file that automates routine tasks with scripts
-  └── requirements.md               # Contains all required dependencies to run the project
-  
+  └── requirements.md               # Contains all required dependencies to run the project  
 ```
   
 ```text  
