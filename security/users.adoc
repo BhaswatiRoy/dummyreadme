@@ -40,9 +40,13 @@ user id whose details need to be altered. Now on the left side again we see a "C
 option on the left panel.
 In this section we have multiple options to add/update our details including 
 - Name
+
 - Description
+
 - API Token 
+
 - Credentials
+
 - E-mail
 - Views
 - Notification URL
