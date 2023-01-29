@@ -41,6 +41,7 @@ option on the left panel.
 
 image::configure-user-details.png["Configure User Details", role=center]
 
+
 This section provides multiple options to add/update user details including -
 
 - Full Name - In this option you can update the full name for your Jenkins account. It is preferred to put your real name in this field for easier identification.
