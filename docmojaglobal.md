@@ -2,11 +2,11 @@
 
 Moja Global / FLINT Handbook  
   ├── Chapter 1                     # Understanding Climate Science and Carbon Models
-       ├── index.rst                # landing page of Chapter 1
+       ├── index.rst                # Landing page of Chapter 1
        ├── section_one.rst          # The Organisations behind the Climate Mitigation Steps
        └── section_two.rst          # How does FLINT help solve issues arising from Climate Change
   ├── Chapter 2                     # Chapter 2: Introduction to the Full Lands Integration Tool
-       ├── index.rst                # landing page of Chapter 2
+       ├── index.rst                # Landing page of Chapter 2
        ├── section_one.rst          # Modules
        ├── section_two.rst          # Inputs 
        └── section_three.rst        # Output
@@ -36,15 +36,15 @@ Moja Global / FLINT Handbook
        └── section_three.rst        # Changing Patterns
   ├── static                        # Folder with static files 
        ├── custom.css               # CSS styles of Handbook
-  ├── .gitignore                    # 
+  ├── .gitignore                    # ensures that certain files remain untracked by Git
   ├── Appendices.rst                # Vision: The reproducible science stack
   ├── Conclusion.rst                # Conclusion of the Handbook
-  ├── Makefile                      # defines minimum set of tasks needed to be executed
-  ├── README.md                     # gives an overview of the entire Handbook 
-  ├── conf.py                       # 
+  ├── Makefile                      # Defines which parts of program needs to recompile
+  ├── README.md                     # Gives an overview of the entire Handbook 
+  ├── conf.py                       # Contains all configurations needed to customize Sphinx input output
   ├── index.rst                     # Home page of the Handbook
-  ├── make.bat                      # 
-  └── requirements.md               # Contains all required packages to run the project
+  ├── make.bat                      # Batch file that automates routine tasks with scripts
+  └── requirements.md               # Contains all required dependencies to run the project
   
 ```
   
