@@ -1,5 +1,15 @@
+Please make use of the Project Structure when contributing to this Handbook to save time -
+
+1. To understand the Handbook's blueprint, take a look at the Project Structure.
+
+2. After that, you can browse the website to see which sections need improvement.
+
+3. Rather than searching linearly through folders, use this Project Structure again to locate the file you want to improve.
+
+4. Submit a pull request after navigating directly to the file you wish to edit.
+
 ```text
-Moja Global / FLINT Handbook  
+
   ├── Chapter 1                     # Understanding Climate Science and Carbon Models
        ├── index.rst                # Landing page of Chapter 1
        ├── section_one.rst          # The Organisations behind the Climate Mitigation Steps
