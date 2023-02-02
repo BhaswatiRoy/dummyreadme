@@ -22,8 +22,33 @@ In order to support AsyncAPI, the following options are available -
   
    - Linux Foundation Crowdfunding on the same 
 
-#Run Locally
+# Run Locally
 
-1. Clone the repository
+1. Open Command Prompt in your local computer
 
-   `git clone <repo link>`
+2. Clone the repository, 
+
+```bash
+git clone https://github.com/asyncapi/website/
+```
+
+3. Navigate to the website directory
+
+```bash
+cd website
+```
+
+4. Install all website dependencies 
+
+```bash
+npm install
+```
+
+5. Run the website locally
+
+```bash
+npm run dev
+```
+
+6. Access the live development server at [localhost:3000](http://localhost:3000).
+
