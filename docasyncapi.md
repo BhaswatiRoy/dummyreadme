@@ -21,3 +21,9 @@ In order to support AsyncAPI, the following options are available -
    - Open Collective & GitHub Sponsors fundings on Open Collective
   
    - Linux Foundation Crowdfunding on the same 
+
+#Run Locally
+
+1. Clone the repository
+
+   `git clone <repo link>`
