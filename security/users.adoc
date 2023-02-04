@@ -13,7 +13,7 @@ endif::[]
 
 = Manage Users
 
-image:: resources/admin-user.png["Admin User",role=center]
+image:resources/admin-user.png["Admin User",role=center]
 
 == Setting up User Accounts -
 
