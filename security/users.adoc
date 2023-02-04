@@ -13,6 +13,8 @@ endif::[]
 
 = Manage Users
 
+image:: ../resources/admin-user.png["Admin User",role=center]
+
 == Setting up User Accounts -
 
 As soon as we set up Jenkins in our local computers and go to the required TCP port 
