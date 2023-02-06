@@ -24,12 +24,14 @@ In order to support AsyncAPI, the following options are available -
 
 # Run Locally
 
-1. Open Command Prompt in your local computer
+1. Click on `Fork` option on top right of the page
 
-2. Clone the repository, 
+2. Open Command Prompt in your local computer
+
+3. Clone the forked repository, by replacing `username` with your own GitHub username
 
 ```bash
-git clone https://github.com/asyncapi/website/
+git clone https://github.com/<username>/website/
 ```
 
 3. Navigate to the website directory
