@@ -56,15 +56,16 @@ Please make use of the Project Structure when contributing to this Handbook to s
   └── requirements.md               # Contains all required dependencies to run the project  
 ```
   
-```text  
-  ├── .devcontainer               # contents of .devcontainer
-  ├── .github                     # contents of .github
-  ├── .website                    # contents of .website
-  │    ├── blog                   # contents of blog
-  │    ├── case-studies           # contents of case studies
-  │    └── community              # cotents of community
-  │    └── docs                   # contents for documentation
-  ├── public                      # Data for site metadata and static blog such as images
+```website 
+  ├──  blog                                                # blogs of contributors
+  ├──  case studies                                        # contents of case studies
+  │    ├── introduction to FLINT modules                   # contents of intro to FLINT
+  │    ├── introduction                                    # contents of intro
+  │    └── powering deforestation prediction using AI      # contents of powering deforestation
+  ├──  community                                           # contents of community
+  │    ├── writing groups                                  # contents of writing group
+  │    
+  ├──  docs                     # Data for site metadata and static blog such as images
   ├── scripts                     # Scripts used in the build and dev processes
   ├── next.config.js              # Next.js configuration file
   ├── netlify                     # Code that runs on Netlify
