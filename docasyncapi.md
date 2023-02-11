@@ -22,25 +22,34 @@ In order to support AsyncAPI, the following options are available -
   
    - Linux Foundation Crowdfunding on the same 
 
-# Run Locally
+## Run locally
 
-1. Click on `Fork` option on top right of the page
+1. Fork the repository by clicking on `Fork` option on top right of the main repository
 
-2. Open Command Prompt in your local computer
+2. Open Command Prompt on your local computer.
 
-3. Clone the forked repository, by replacing `username` with your own GitHub username
+3. Clone the forked repository by adding your own GitHub username in place of `<username>`
 
 ```bash
 git clone https://github.com/<username>/website/
 ```
+For multiple contributions it is recommended to have [proper configuration of forked repo](https://github.com/asyncapi/community/blob/master/git-workflow.md)
 
-3. Navigate to the website directory
+4. Check if NPM Package is already installed on your local computer
+
+```bash
+npm
+```
+If it shows details details of the package then the NPM package is already installed. 
+Otherwise you can install [NPM Package](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+3. Navigate to the website directory.
 
 ```bash
 cd website
 ```
 
-4. Install all website dependencies 
+4. Install all website dependencies. 
 
 ```bash
 npm install
@@ -51,6 +60,3 @@ npm install
 ```bash
 npm run dev
 ```
-
-6. Access the live development server at [localhost:3000](http://localhost:3000).
-
