@@ -54,7 +54,7 @@ cd website
 npm install
 ```
 
-5. Run the website locally
+5. Run the website locally.
 
 ```bash
 npm run dev
